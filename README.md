@@ -30,4 +30,6 @@ Slides [here](https://slides.com/jkusa/ember-duplos)
 | Re-usability          | No       |    Yes |
 | Autonomous Deployment | Yes      |   Yes  |
 | Routable              | Yes       |    Yes |
+| Customization              | No       |    Yes |
+| Composable              | No       |    Yes |
 
