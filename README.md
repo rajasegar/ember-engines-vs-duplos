@@ -15,8 +15,10 @@ we know each app is a snowflake with its own requirements, stakeholders and spec
 [Ember Engines](http://ember-engines.com/)
 
 ## Duplos
-Duplos is a new pattern followed in Yahoo for managing modular monoliths. 
+Duplos is a new pattern followed by Yahoo for building large-scale Ember apps. 
+
 Watch [Jon Kilroy](https://github.com/jkusa)'s talk in Ember Fest about [Duplos](https://www.youtube.com/watch?v=7K4Gkr_w58w)
+
 Slides [here](https://slides.com/jkusa/ember-duplos)
 
 ## Comparison
